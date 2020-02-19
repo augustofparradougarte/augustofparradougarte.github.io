@@ -1,0 +1,148 @@
+Uri: https://cristhianchaucamariaca.github.io/
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\index.htm
+Content Type: text/html
+
+Uri: https://cristhianchaucamariaca.github.io/css/estilos.css
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\css\estilos.css
+Content Type: text/css
+
+Uri: https://cristhianchaucamariaca.github.io/fonts/style.css
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\fonts\style.css
+Content Type: text/css
+
+Uri: https://cristhianchaucamariaca.github.io/media/icon.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\icon.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/CRISTHIAN+CARLOSCHAUCA+MARIACA-BO-TKNLPZ191-1LWVN-4-Certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\CRISTHIAN CARLOSCHAUCA MARIACA-BO-TKNLPZ191-1LWVN-4-Certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/NDGLinuxUnhatched.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\NDGLinuxUnhatched.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/SE_CoreClientCredential2018certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\SE_CoreClientCredential2018certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/MarketingCredential2018certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\MarketingCredential2018certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/SE_CoreClientCredential2017certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\SE_CoreClientCredential2017certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/Sales_CoreClientCredential2017certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\Sales_CoreClientCredential2017certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/certificados/MarketingSpecialistCredential2017certificate.pdf
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\certificados\MarketingSpecialistCredential2017certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/cisco_netacad_logo.jpg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\cisco_netacad_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/dell_emc.jpg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\dell_emc.jpg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/html5.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\html5.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/css3.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\css3.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/sass.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\sass.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/pug.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\pug.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/javascript.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\javascript.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/jquery.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\jquery.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/java.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\java.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/php.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\php.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/laravel.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\laravel.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/mysql.jpg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\mysql.jpg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/python.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\python.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/github.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\github.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/seguridad.jpg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\seguridad.jpg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/linux.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\linux.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/photoshop.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\photoshop.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/media/logos/seo.png
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\logos\seo.png
+Content Type: image/png
+
+Uri: https://cristhianchaucamariaca.github.io/js/script.js
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\js\script.js
+Content Type: application/javascript
+
+Uri: https://cristhianchaucamariaca.github.io/media/banner3.jpg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/pagina-web.jpeg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\pagina-web.jpeg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/media/banner4.jpeg
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\media\banner4.jpeg
+Content Type: image/jpeg
+
+Uri: https://cristhianchaucamariaca.github.io/fonts/fonts/icomoon.eot?lqtq9j
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\fonts\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cristhianchaucamariaca.github.io/fonts/fonts/icomoon.ttf?lqtq9j
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\fonts\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://cristhianchaucamariaca.github.io/fonts/fonts/icomoon.woff?lqtq9j
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\fonts\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://cristhianchaucamariaca.github.io/fonts/fonts/icomoon.svg?lqtq9j
+File Name: C:\Users\Fab5an\Documents\GitHub\Nueva carpeta\Nueva carpeta\cristhianchaucamariaca.github.io\fonts\fonts\icomoon.svg
+Content Type: image/svg+xml
+
